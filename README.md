@@ -3,7 +3,7 @@ Hackathon project : Comparea - A product comparison tool.
 
 # "Comparea"-  A Product Comparison Tool
 
-A beginner-friendly web app for comparing products across multiple platforms—designed for hackathon demo.
+A beginner-friendly web app for comparing products across multiple platforms that helps users for a easier purchase.
 
 ## Features
 

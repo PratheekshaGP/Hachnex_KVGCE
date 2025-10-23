@@ -1,7 +1,7 @@
 # Hachnex_KVGCE
 Hackathon project : Comparea - A product comparison tool. 
 
-# Product Comparison Tool
+# "Comparea"-  A Product Comparison Tool
 
 A beginner-friendly web app for comparing products across multiple platforms—designed for hackathon demo.
 

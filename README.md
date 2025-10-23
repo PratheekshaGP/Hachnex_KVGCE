@@ -1,5 +1,5 @@
 # Hachnex_KVGCE
-Hackathon project : Comparea - A product comparison tool. 
+Hackathon project : Comparea 
 
 # "Comparea"-  A Product Comparison Tool
 
